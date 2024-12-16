@@ -1,7 +1,6 @@
 {
   "name": "js",
   "version": "1.0.0",
-  "main": "LYClothing.html",
   "scripts": {
     "start": "parcel LYclothing.html",
     "build": "parcel build LYclothing.html"
